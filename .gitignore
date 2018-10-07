@@ -1,0 +1,3 @@
+# Ignore the lockfile and any old versions of the Inventor files
+*.lck
+OldVersions
